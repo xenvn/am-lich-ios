@@ -1,3 +1,5 @@
+# Xem Âm Lịch Trên iOS, iPhone, iPad Bằng Ứng Dụng Lịch Mặc Định
+
 ![Xem-Am-Lich-iOS-iPhone-iPad](https://github.com/xenvn/am-lich-ios/assets/112816533/05e199c3-4013-40eb-b27e-bcd733042019)
 
 **Mặc định trên iOS (iPhone, iPad) không có tích hợp sẵn Âm Lịch. Nên bắt buộc bạn phải cài đặt thêm ứng dụng thứ 3 để xem. Nhưng có một cách giúp bạn xem nhanh Âm Lịch ngay trên iPhone, iPad, sử dụng chính ứng dụng Lịch mặc định, không cần cài đặt thêm ứng dụng khác.**
