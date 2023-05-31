@@ -1,5 +1,5 @@
 BEGIN:VCALENDAR
-PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+PRODID:github.com/xenvn/am-lich-ios
 VERSION:2.0
 BEGIN:VEVENT
 DTEND;VALUE=DATE:20230101
